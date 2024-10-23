@@ -4,7 +4,7 @@ A 3rd year computer science student who fell in love with robotics! I'm currentl
 
 - 🌱 I’m currently learning about computer science, robotics, and machine learning
 - 📫 How to reach me: aizarhafizh@gmail.com
-- ⚡ Fun fact: Novice Pianist
+- ⚡ Fun fact: Novice Guitarist
   
 ### Github Statistic
 <p align="left">
