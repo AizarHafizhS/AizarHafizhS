@@ -15,4 +15,4 @@ A 3rd year computer science student who fell in love with robotics! I'm currentl
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
+- <a href="https://linkedin.com/in/aizar-hafizh/">LinkedIn</a>
